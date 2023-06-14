@@ -1,0 +1,3 @@
+function changeRegion() {
+    document.getElementById
+}
